@@ -1,0 +1,19 @@
+# Rust specific
+target/
+**/*.rs.bk
+
+# If you use Cargo (common)
+Cargo.lock
+.cargo/
+
+# If you use the IntelliJ IDEs
+.idea/
+
+# If you use Visual Studio Code
+.vscode/
+
+# If you use Emacs
+*~
+
+# If you use Vim
+*.swp
